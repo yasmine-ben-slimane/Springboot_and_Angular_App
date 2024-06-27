@@ -11,6 +11,8 @@
     <groupId>com.springboot</groupId>
     <artifactId>Springboot_and_Angular_App</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>war</packaging>
+
     <name>Springboot_and_Angular_App</name>
     <description>Springboot_and_Angular_App</description>
     <url/>
